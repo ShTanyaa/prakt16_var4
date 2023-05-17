@@ -1,0 +1,7 @@
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\pr16_var4\pr16_var4\bin\Debug\pr16_var4.exe.config
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\pr16_var4\pr16_var4\bin\Debug\pr16_var4.exe
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\pr16_var4\pr16_var4\bin\Debug\pr16_var4.pdb
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\pr16_var4\pr16_var4\obj\Debug\pr16_var4.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\pr16_var4\pr16_var4\obj\Debug\pr16_var4.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\pr16_var4\pr16_var4\obj\Debug\pr16_var4.exe
+C:\Users\305-11\Desktop\Шумкова Татьяна ПР-21\pr16_var4\pr16_var4\obj\Debug\pr16_var4.pdb
